@@ -10,7 +10,7 @@ However, if the parameter is not a valid object with the properties "name" and "
 an error with the message "Invalid parameter type". Use try-catch to handle this error and return the error
 message if it occurs.
 
-3.Car Description Class.
+3. Car Description Class.
 Create a class called Car with three properties: company, model, and year. The class should have a method
 called getDescription that returns a string in the format "This is a <year> <company> <model>". Instantiate an
 instance of the Car class and call the getDescription method.
